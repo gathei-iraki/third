@@ -1,0 +1,23 @@
+body {
+    background-image: url("../phui/Void\ Design\ \(copy\).gif");
+    background-repeat: no-repeat;
+   width: 100%;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#text{
+  font-family: 'Special Elite', cursive;
+  font-size: x-large;
+  color:whitesmoke;
+  background-color: black;
+  opacity: 0.4;
+  text-align: center;
+  }
+ #link{
+  font-family: 'Special Elite', cursive;
+  font-size: x-large;
+  color: blue;
+  background-color: black;
+  opacity: 0.4;
+  text-align: center;
+ }
